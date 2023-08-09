@@ -1,16 +1,9 @@
+# 2023 Campaign
 
-**Sawyer X** nominated by Ricardo Signes
+**Graham Knop** nominated by Philippe Bruhat
 
-**Ricardo Signes** nominated by Philippe Bruhat
+**Paul Evans** nominated by Ricardo Signes
 
-**Chad Granum** nominated by himself
+**Philippe Bruhat** nominated by Ricardo Signes
 
-**Nicolas Rochelemagne** nominated by Sawyer X
-
-**Neil Bowers** nominated by David Golden
-
-**Todd Rinaldo** nominated by Nicolas Rochelemagne
-
-**Leon Timmermans** nominated by Nicholas Clark
-
-**Paul Evans** nominated by himself
+**Yves Orton** nominated by Craig Berry
